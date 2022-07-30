@@ -24,4 +24,4 @@ yarn-error.log*
 
 *.txt
 test/
-readme.txt
+readme.md
